@@ -42,7 +42,7 @@ Dashboard allows users to interact and explore data across multiple dimensions.
 
 ## 🚀 How to Use
 1. Download or clone the repository.
-2. Open `Excel Project Dataset.xlsx` in Microsoft Excel (2016 or later recommended).
+2. Open `Excel-Bike-Sales-Analysis-Anurag.xlsx` in Microsoft Excel (2016 or later recommended).
 3. Go to the **Dashboard** tab and use slicers to filter the visualizations.
 4. Explore pivot tables and working sheets for detailed analysis steps.
 
@@ -63,11 +63,6 @@ This project was built to practice and demonstrate Excel-based analysis from scr
 - MIS Executive
 - Data Analyst (Fresher)
 - Business Analyst (Entry Level)
-
----
-
-## 📥 Download Files
-- [Excel Project Dataset.xlsx](./Excel%20Project%20Dataset.xlsx)
 
 ---
 
